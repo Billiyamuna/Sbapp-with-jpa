@@ -22,4 +22,4 @@ A **Spring Boot** application integrated with **Spring Data JPA** for database o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/OmkarMekala/SB-with-JPA.git
+   git clone https://github.com/Billiyamuna/Sbapp-with-jpa.git
